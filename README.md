@@ -1,2 +1,2 @@
 # Tetris-Game
-Simple game using Javascript
+Simple game using Html, CSS and Javascript
